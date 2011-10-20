@@ -1,0 +1,2 @@
+this is a placeholder so that the folders for all experiments and groups get actually created.
+you cannot just add an empty folder to git, there has to be something in it, although it can be ignored with .gitignore.
